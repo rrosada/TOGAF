@@ -12,6 +12,11 @@ clientes, são muito demorados e acabam que grandes clientes desistem com tanta 
 A empresa tem a intencao de aumentar cadas vez mais o numero de clientes, mas a area de negocio entende que precisa melhorar a parte
 de avaliacoes de riscos e consulta a saldos de seus clientes.
 
+A empresa encontra-se em um processo de expansao, ao adquirir uma outra empresa de investimentos ha 15 anos.
+
+Com a aquisição dessa nova empresa, a InvestZ trouxe tambem a sua base de clientes e seus historicos de transacoes, porem, como a empresa
+era de pequeno porte, a estraturacao dos dados nao estavam normalizados e parte das informacoes estavam em arquivos como CSV.
+
 
 
 
