@@ -15,15 +15,12 @@ de avaliacoes de riscos e consulta a saldos de seus clientes.
 A InvestZ encontra-se em um processo de expansao, ela adquiriu uma nova empresa de investimentos ha 15 anos.
 
 Com a aquisição dessa nova empresa, a InvestZ trouxe tambem a sua base de clientes e seus historicos de transacoes, porem, como a empresa
-era de pequeno porte, a estraturacao dos dados nao estavam normalizados e parte das informacoes estavam em arquivos como CSV.
+era de pequeno porte, a estruturacao dos dados nao estavam normalizados e parte das informacoes estavam em arquivos como CSV.
 
-Ja a base de dados da Investz, encontra-se bem estruturada e operando corretamente.
+Ja a base de dados da Investz, encontra-se bem estruturada e operando corretamente. Sendo assim, ela nunca conseguiu unificar as bases de 
+dados e com isso ela possui muitos riscos e problemas com dados duplicados e divergentes de muitos clientes.
 
-Sendo assim, ela nunca conseguiu unificar as bases de dados e com isso ela possui muitos riscos e problemas com dados duplicados e diverge
-ntes de muitos clientes
 
-na hora de identificar as 
-informacoes dos clientes por essas estarem muitas vezes duplicadas.
 
 
 
